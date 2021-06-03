@@ -1,16 +1,16 @@
-### Noob Engineer
+### Noob Engineer   
 
 Hello, I'm just some guy making useless things.
-I'm currently working on my own Discord Bot.(It is unstable and slow now)
+I'm currently working on my own Discord Bot.(It is unstable and slow now)   
 
-TODO
-1.Test the bot
-2.Learn Java
-3.Keep post something on Blog
+TODO:  
+  1.Test the bot
+  2.Learn Java
+  3.Keep post something on Blog       
   
-Conatct
-1.Discord: resc863#0381
-2.Email:resc863@gmail.com
+Conatct:  
+  1.Discord: resc863#0381
+  2.Email:resc863@gmail.com   
 
 <!--
 **resc863/resc863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
