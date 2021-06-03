@@ -1,6 +1,6 @@
 # Noob Engineer   
 
-Hello, I'm just some guy making useless things.
+Hello, I'm just some guy making useless things.  
 I'm currently working on my own Discord Bot.(It is unstable and slow now)   
 
 TODO
