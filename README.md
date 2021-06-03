@@ -5,14 +5,14 @@ I'm currently working on my own Discord Bot.(It is unstable and slow now)
 
 TODO
 --------
-  1.Test the bot    
-  2.Learn Java    
-  3.Keep post something on Blog       
+  1. Test the bot    
+  2. Learn Java    
+  3. Keep post something on Blog       
   
 Contact
 ---------
-  1.Discord: resc863#0381   
-  2.Email:resc863@gmail.com   
+  1. Discord: resc863#0381   
+  2. Email: resc863@gmail.com   
 
 <!--
 **resc863/resc863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
