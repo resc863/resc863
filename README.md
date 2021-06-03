@@ -3,12 +3,12 @@
 Hello, I'm just some guy making useless things.
 I'm currently working on my own Discord Bot.(It is unstable and slow now)
 
-TODO:
+TODO
 1.Test the bot
 2.Learn Java
 3.Keep post something on Blog
   
-Conatct:
+Conatct
 1.Discord: resc863#0381
 2.Email:resc863@gmail.com
 
