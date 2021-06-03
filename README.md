@@ -9,7 +9,7 @@ TODO
   2.Learn Java    
   3.Keep post something on Blog       
   
-Conatct
+Contact
 ---------
   1.Discord: resc863#0381   
   2.Email:resc863@gmail.com   
