@@ -11,7 +11,6 @@ TODO
   
 Contact
 ---------  
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:resc863@gmail.com)](resc863@gmail.com)
 
 <!--
 **resc863/resc863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
