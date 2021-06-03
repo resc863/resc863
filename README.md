@@ -4,12 +4,12 @@ Hello, I'm just some guy making useless things.
 I'm currently working on my own Discord Bot.(It is unstable and slow now)
 
 TODO:
-  Test the bot
-  Learn Java
+  Test the bot, 
+  Learn Java, 
   Keep post something on Blog
   
 Conatct:
-  Discord: resc863#0381
+  Discord: resc863#0381, 
   Email:resc863@gmail.com
 
 <!--
