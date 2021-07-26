@@ -1,12 +1,11 @@
-# Noob Engineer   
+# Hello World
 
-Hello, I'm just some guy making useless things.  
-I'm currently working on my own Discord Bot.(It is unstable and slow now)   
+Hi, I'm currently working on my own Discord Bot.(It is unstable and slow now)   
 
 TODO
 --------
   1. Test the bot    
-  2. Learn Java    
+  2. Master Java    
   3. Keep post something on Blog       
   
 Contact
