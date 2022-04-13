@@ -1,12 +1,11 @@
-# Hello World
+# Hello
 
-Hi, I'm currently working on my own Discord Bot.(It is unstable and slow now)   
-
+Currently in Millitery serving in the military
 TODO
 --------
-  1. Test the bot    
-  2. Master Java    
-  3. Keep post something on Blog       
+  1. Learn Python    
+  2. Eat  
+  3. Sleep
   
 Contact
 ---------  
