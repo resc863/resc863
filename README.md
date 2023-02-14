@@ -1,6 +1,6 @@
 # Hello
 
-Currently in Millitery serving in the military  
+Currently in Millitery serving in the military    
 TODO
 --------
   1. Learn Python    
