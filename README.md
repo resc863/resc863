@@ -1,9 +1,9 @@
 # Hello
 
-Currently in Millitery serving in the military    
+Undergraduate Code Monkey
 TODO
 --------
-  1. Learn Python    
+  1. Learn Flutter   
   2. Eat  
   3. Sleep
   
